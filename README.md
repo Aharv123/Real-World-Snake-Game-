@@ -37,3 +37,6 @@ If the snake **collides with itself**, it's game over – and the game restarts 
 ```bash
 git clone https://github.com/your-username/snake-game-controller.git
 cd snake-game-controller
+
+pip install -r requirements.txt
+
